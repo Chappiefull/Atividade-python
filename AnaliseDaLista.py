@@ -1,0 +1,1 @@
+InformacoesDaLista = lambda lista: print(f'Média: {int(sum(lista)/len(lista) * 100)/100}\nMaior número: {max(lista)}\nMenor número: {min(lista)}\nQuantidade de números pares: {len([i for i in lista if i%2 == 0])}')
