@@ -1,7 +1,9 @@
 O projeto possui dois programas:
 
 AnaliseDaLista.py --> arquivo .py onde se encontra a função que retorna a média, maior número, menor número e a quantidade de números pares de uma lista
+
 teste.py --> arquivo .py que vai importar AnaliseDaLista e usar usar uma lista como argumento da função
+
 
 lista fornecida:
 
